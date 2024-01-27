@@ -62,10 +62,6 @@ class About extends React.Component {
                     <h3>Setup your Own Configure Projects.</h3>
                     <p>Enter your own key</p>
                     <strong>ContentFul:</strong>
-                    <ul>
-                        <li>spaceId = Key</li>
-                        <li>accessToken = Key</li>
-                    </ul>
                     <strong>snipcart:</strong>
                     <ul>
                         <li>snipcart = Key</li>
